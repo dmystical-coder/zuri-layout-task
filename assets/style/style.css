@@ -20,7 +20,7 @@ body, .btn{
     display: grid;
     height: 100vh;
     padding: 12px;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: auto 1fr auto;
 }
 
 nav ul{
@@ -139,7 +139,7 @@ footer p{
         justify-content: center;
         max-width: 71.5%;
         margin: auto;
-        transition: width 3s;
+
     }
     .card .btn{
         margin: 10px 0;
