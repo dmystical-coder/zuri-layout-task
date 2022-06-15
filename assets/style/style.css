@@ -120,7 +120,7 @@ p{
     padding: 10px 25px;
     color: var(--very-dark-cyan);
     background-color: var(--very-light-gray);
-    border: none;
+    border: 0px;
     border-radius: 50px;
 }
 .luxury .btn:hover{
@@ -138,8 +138,7 @@ footer p{
         align-items: center;
         justify-content: center;
         max-width: 71.5%;
-        margin: auto;
-
+        margin: auto
     }
     .card .btn{
         margin: 10px 0;
