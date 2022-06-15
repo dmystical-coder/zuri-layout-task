@@ -130,6 +130,7 @@ p{
 }
 footer p{
     color: var(--bright-orange);
+    font-family: monospace;
 }
 
 @media (min-width: 1024px){
